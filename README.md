@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+ 
 .md : https://dillinger.io/
 Profile : https://pgmjun.tistory.com/21
 Emoji : https://www.emojicopy.com/
@@ -28,7 +28,7 @@ Git hub readme stats : https://github.com/anuraghazra/github-readme-stats
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&&text=Hello!&textBg=I'm%So-yeon%Kim)
 
 
-<h1 align ="center"> Hi 👋, I'm So-yeon Kim </h1> 
+<h1 align ="center"> Hi 👋, I'm So-yeon Kim </h1>  
 
 
 
@@ -36,7 +36,7 @@ Git hub readme stats : https://github.com/anuraghazra/github-readme-stats
 - I’m currently learning **Microbiome(amplicon, shotgun) data analysis, Data Engineering, Machine-Learning**
 - I’m looking to collaborate on **Deep-learning analysis with microbiome**
 - Ask me about **R, Microbiome analysis**
-- How to reach me **Email : kim.soyoen.bio@gmail.com**
+- How to reach me **Email : kim.soyoen.bio@gmail.com**      
  
 
 <!About Me>
