@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
  
-.md : https://dillinger.io/
+.md : https://dillinger.io/ / https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45/ 
 Profile : https://pgmjun.tistory.com/21
 Emoji : https://www.emojicopy.com/
 Git hub readme stats : https://github.com/anuraghazra/github-readme-stats
@@ -45,7 +45,7 @@ Git hub readme stats : https://github.com/anuraghazra/github-readme-stats
 <p align ="center"> 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
 </p>
-<br/>
+
 
 <!My Project>
 
@@ -61,12 +61,12 @@ Git hub readme stats : https://github.com/anuraghazra/github-readme-stats
 <h3 align ="center"> 🛠️ Stacks </h3> 
 <p align ="center"> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 </p>
-<br/> 
+
 
 <h3 align ="center"> 💪🏼 Tools </h3> 
 <p align ="center"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
  </p>
-<br/> 
+
 
 
 <!Github stats>
