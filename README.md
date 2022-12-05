@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&&text=Hello!&&textBg=I'm%So-yeon%Kim)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&&text=Hello!&textBg=I'm%So-yeon%Kim)
 
