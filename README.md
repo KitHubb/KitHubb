@@ -13,7 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Profile : https://pgmjun.tistory.com/21
+Emoji : https://www.emojicopy.com/
+
 -->
+
+
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&&text=Hello!&textBg=I'm%So-yeon%Kim)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
