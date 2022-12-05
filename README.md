@@ -28,7 +28,7 @@ Git hub readme stats : https://github.com/anuraghazra/github-readme-stats
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&&text=Hello!&textBg=I'm%So-yeon%Kim)
 
 
-### Hi 👋, I'm So-yeon Kim
+### Hi 👋, I'm So-yeon Kim \n
 
 <!Introduce>
 - 🌱 I’m currently learning **Microbiome(amplicon, shotgun) data analysis, Data Engineering, Machine-Learning**
