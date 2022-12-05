@@ -38,18 +38,23 @@ Git hub readme stats : https://github.com/anuraghazra/github-readme-stats
 - ⚡ Fun fact: ...
  
 
-<!🐱 About Me>
+<!About Me>
 
 #### 🐱 About Me
 <!My Project>
 
 <!Certificates>
 
-<!🏆 Awards>
-<!Languages : https://github.com/topics/github-language-statistics>
+<!Awards>
+
+
+<!Languages 
+: https://github.com/topics/github-language-statistics
+: https://github.com/simple-icons/simple-icons -->
 
 #### 🛠️ Stacks
 
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
 
 #### 💪🏼 Tools
 
