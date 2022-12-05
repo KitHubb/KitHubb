@@ -21,11 +21,12 @@ Git hub readme stats : https://github.com/anuraghazra/github-readme-stats
 프로파일 참고1 : https://ashish-kamboj.github.io/
 
 <p align ="center">
+&desc=I'm%20So-yeon%20Kim&descSize=20&descAlign=60&descAlignY=62
 -->
 
 
 <!Header>
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&textBg=I'm%So-yeon%Kim&height=250&desc=I'm%20So-yeon%20Kim&descSize=20&descAlign=60&descAlignY=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=250)
 
 
 
