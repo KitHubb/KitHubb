@@ -41,6 +41,10 @@ Git hub readme stats : https://github.com/anuraghazra/github-readme-stats
 <!About Me>
 
 #### 🐱 About Me
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+
+
+
 <!My Project>
 
 <!Certificates>
@@ -53,7 +57,7 @@ Git hub readme stats : https://github.com/anuraghazra/github-readme-stats
 : https://github.com/simple-icons/simple-icons -->
 
 #### 🛠️ Stacks
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 
 
 #### 💪🏼 Tools
