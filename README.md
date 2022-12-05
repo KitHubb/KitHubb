@@ -25,7 +25,7 @@ Git hub readme stats : https://github.com/anuraghazra/github-readme-stats
 
 
 <!Header>
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&&text=Hello!&textBg=I'm%So-yeon%Kim)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&textBg=I'm%So-yeon%Kim&height=300)
 
 
 <h1 align ="center"> Hi 👋, I'm So-yeon Kim </h1>  
