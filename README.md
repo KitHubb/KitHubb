@@ -42,8 +42,9 @@ Git hub readme stats : https://github.com/anuraghazra/github-readme-stats
 <!About Me>
 
 <h3 align ="center">🐱 About Me </h3> 
+<p align ="center"> 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
-
+</p>
 
 
 <!My Project>
@@ -69,6 +70,7 @@ Git hub readme stats : https://github.com/anuraghazra/github-readme-stats
 
 
 <!Github stats>
-<p align ="center">![KitHubb's GitHub stats](https://github-readme-stats.vercel.app/api?username=KitHubb&show_icons=true&bg_color=00000000)  
+<p align ="center">
+ ![KitHubb's GitHub stats](https://github-readme-stats.vercel.app/api?username=KitHubb&show_icons=true&bg_color=00000000)  
 </p>
 
