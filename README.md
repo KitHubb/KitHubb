@@ -24,13 +24,13 @@ Git hub readme stats : https://github.com/anuraghazra/github-readme-stats
 
 -->
 
-<Header>
+<!Header>
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&&text=Hello!&textBg=I'm%So-yeon%Kim)
 
-<Introduce>
+<!Introduce>
   
-<My Project>
+<!My Project>
 
     
-<Github stats>
+<!Github stats>
 ![KitHubb's GitHub stats](https://github-readme-stats.vercel.app/api?username=KitHubb&show_icons=true&bg_color=00000000)
