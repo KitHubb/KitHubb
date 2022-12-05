@@ -2,7 +2,7 @@
 **KitHubb/KitHubb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<h1 align ="center"> Hi 👋, I'm So-yeon Kim </h1> 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -27,8 +27,6 @@ Git hub readme stats : https://github.com/anuraghazra/github-readme-stats
 <!Header>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&textBg=I'm%So-yeon%Kim&height=250&desc=Hello%20I'm%20So-yeon%20Kim)
 
-
-< <h1 align ="center"> Hi 👋, I'm So-yeon Kim </h1>  >
 
 
 
