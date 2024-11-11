@@ -35,7 +35,7 @@ Git hub readme stats : https://github.com/anuraghazra/github-readme-stats
 - I’m currently learning **Microbiome(amplicon, shotgun) data analysis, Data Engineering, Machine-Learning**
 - I’m looking to collaborate on **Deep-learning analysis with microbiome**
 - Ask me about **R, Microbiome analysis**
-- How to reach me **Email : kim.soyoen.bio@gmail.com**      
+- How to reach me **Email : kim.soyeon.bio@gmail.com**      
  <br/> <br/> 
 
 <!About Me>
