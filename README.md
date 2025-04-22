@@ -68,9 +68,4 @@ Git hub readme stats : https://github.com/anuraghazra/github-readme-stats
 
 
 
-<!Github stats>
-
-<br/><br/><br/>
-![KitHubb's GitHub stats](https://github-readme-stats.vercel.app/api?username=KitHubb&show_icons=true&bg_color=00000000)  
-
 
